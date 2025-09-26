@@ -118,5 +118,12 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "api": {
+    "reference": {
+      "spring-api": {
+        "path": "api-docs.yaml"
+      }
+    }
   }
 }
