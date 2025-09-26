@@ -69,7 +69,7 @@
       },
        {
         "tab": "API 参考",
-        "openapi": "api-docs.json"
+        "openapi": "api-docs.yaml"
         }
     ],
     "global": {
